@@ -17,3 +17,5 @@ npx prisma db push
 
 1. npx prisma migrate dev --name rename_firstName_to_firstname
 2. npx prisma generate
+
+https://www.youtube.com/watch?v=PM58NEMJgMw
